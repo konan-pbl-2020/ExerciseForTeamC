@@ -7,5 +7,6 @@ public class Main {
     public void test() {
         System.out.println("Hello Android!!");
         System.out.println("増田雄世です。");
+        System.out.println("岡野暖大です。");
     }
 }
