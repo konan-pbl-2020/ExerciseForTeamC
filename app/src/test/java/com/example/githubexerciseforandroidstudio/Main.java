@@ -10,5 +10,6 @@ public class Main {
         System.out.println("岡野暖大です。");
         System.out.println("岩元健悟です。");
         System.out.println("平瀬奈緒です。");
+        System.out.println("森脇遼輝です。"); 
     }
 }
